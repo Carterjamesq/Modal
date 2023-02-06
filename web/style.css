@@ -8,6 +8,15 @@ body {
     height: 100vh;
 }
 
+/* Button Styles */
+#myBtn {
+    background: orange;
+    border: none;
+    padding: 15px 20px;
+    color: white;
+    cursor: pointer;
+}
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
